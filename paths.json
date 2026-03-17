@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/austa-Projects/language-masters/en:/",
+    "/content/austa-Projects/language-masters/en/:/en/",
+    "/content/austa-Projects/language-masters/fr/:/fr/",
+    "/content/austa-Projects/language-masters/fr:/fr",
+    "/content/austa-Projects/language-masters/es/:/es/",
+    "/content/austa-Projects/language-masters/es:/es",
+    "/content/austa-Projects/language-masters/ja/:/ja/",
+    "/content/austa-Projects/language-masters/ja:/ja",
+    "/content/austa-Projects/language-masters/de/:/de/",
+    "/content/austa-Projects/language-masters/de:/de",
+    "/content/austa-Projects/configuration:/.helix/config.json",
+    "/content/austa-Projects/metadata:/metadata.json",
+    "/content/austa-Projects/redirects:/redirects.json",
+    "/content/austa-Projects/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/austa-Projects/",
+    "/content/dam/austa-Projects/"
   ]
 }
